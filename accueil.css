@@ -1,0 +1,11 @@
+h1
+{ 
+    
+        font-family: nasalization;
+        src: url("nasalization-rg.ttf");
+        font-size: 40px;
+        background: #2e2f30;
+        color: #27d1ff;
+        text-align: center 
+
+    }
